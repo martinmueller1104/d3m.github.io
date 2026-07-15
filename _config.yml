@@ -24,7 +24,7 @@ repository               : "https://github.com/martinmueller1104/d3m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/d3M_rund.png"
   name             : "D3M: Data-Driven Design of Materials"
   pronouns         : # example: "she/her"  
   bio              : "Research Group at Saarland University"
