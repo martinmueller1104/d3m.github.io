@@ -1,7 +1,7 @@
 ---
 name: "Dr. Martin Müller"
 position: "Group Leader"
-image: "/images/team/martin-mueller-1.jpg"
+image: "images/team/martin-mueller-1.jpg"
 email: "martin.mueller1@uni-saarland.de"
 order: 1
 ---
