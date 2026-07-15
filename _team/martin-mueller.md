@@ -3,11 +3,6 @@ name: "Dr. Martin Müller"
 position: "Group Leader"
 image: "/images/team/martin-mueller-1.jpg"
 email: "martin.mueller1@uni-saarland.de"
-research_areas:
-  - Correlative Microscopy
-  - Materials Data Science
-  - Machine Learning based Microstructure Analysis
-  - Data-Driven Materials Design
 order: 1
 ---
 
@@ -15,6 +10,7 @@ After completing his studies in Materials Science and Engineering at Saarland Un
 He is still affiliated with MECS and also a partner at Advance Machine Intelligence GmbH.
 
 **Current Focus Areas:**
-
-- Machine learning for predicting nano- and micro-mechanical properties
-- LLM based literature mining
+  - Correlative Microscopy
+  - Materials Data Science
+  - Machine Learning based Microstructure Analysis
+  - Data-Driven Materials Design
