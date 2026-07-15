@@ -233,7 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  team:
+    output: true
+    permalink: /team/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
