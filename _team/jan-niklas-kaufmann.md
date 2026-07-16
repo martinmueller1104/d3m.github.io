@@ -1,6 +1,6 @@
 ---
 name: "Jan Niklas Kaufmann, M.Sc."
-position: "Group Leader"
+position: "Research assistant and PhD student"
 image: "images/team/jan-niklas-kaufmann.jpg"
 email: "jan_niklas.kaufmann@uni-saarland.de"
 order: 1
