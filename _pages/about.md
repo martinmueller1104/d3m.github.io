@@ -11,7 +11,7 @@ Platzhalter Logo
 
 Welcome to the website of the “Data-Driven Materials Design” research group at the Chair of Experimental Methods in Materials Science, Saarland University!
 
-## In short
+## In short: what we are doing
 - Machine learning for predicting micromechanical and macroscopic material properties based on microstructural data
 - Inverse materials design to identify the microstructure required for improved properties
 - ML-powered microscopy for microstructure quantification 
