@@ -240,7 +240,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
+  partners:
+    output: true
+    permalink: /partners/:path/
+    
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
