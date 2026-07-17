@@ -1,7 +1,7 @@
 ---
 name: "Noah Quartz, B.Sc."
 position: "Student assistant"
-image: "images/team/naoh-quartz.jpg"
+image: "images/team/naoh-quartz.png"
 email: "noqu00001@uni-saarland.de"
 order: 1
 ---
