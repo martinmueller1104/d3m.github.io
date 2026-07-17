@@ -1,3 +1,8 @@
+---
+title: "Partners"
+permalink: /partners/
+layout: single
+---
 <div class="partner-grid">
   {% assign partners = site.partners | sort: "order" %}
   {% for partner in partners %}
