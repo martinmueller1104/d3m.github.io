@@ -1,0 +1,10 @@
+---
+title: "Exploring the Segment Anything Model for Microstructural Image Segmentation (Bachelor Thesis)"
+status: "starting 08/2026"   # laufend, abgeschlossen, Abschlussarbeit
+image: "images/projects/project-xy.png"
+order: 1
+---
+
+In this bachelor thesis, we explore how well the Meta Segment Anything Model (SAM) segments microstructural features out of the box, and to what extent  prompting strategies, model size selection, and pre/post-processing routines, as well as domain-specific fine-tuning, can close the gap to fully supervised segmentation.
+
+**Workers:** Julian Fisselbrand
