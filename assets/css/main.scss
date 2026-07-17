@@ -37,3 +37,63 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+
+
+
+.partner-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.partner-tile {
+  flex: 0 1 calc(25% - 1.5rem);  /* 4 Kacheln pro Zeile, gap berücksichtigt */
+  min-width: 180px;               /* verhindert zu starkes Schrumpfen */
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-sizing: border-box;
+  transition: box-shadow 0.2s ease;
+}
+
+.partner-tile:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.partner-logo {
+  max-width: 100%;
+  max-height: 80px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+}
+
+.partner-tile h4 {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.partner-tile h4 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.partner-description {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* Responsive: weniger Spalten auf kleineren Screens */
+@media (max-width: 900px) {
+  .partner-tile {
+    flex: 0 1 calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 500px) {
+  .partner-tile {
+    flex: 0 1 100%;
+  }
+}
