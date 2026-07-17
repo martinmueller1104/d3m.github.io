@@ -1,7 +1,7 @@
 ---
 name: "Karnika Bhardwaj, B.Sc."
 position: "Student assistant"
-image: "images/team/karnika-bhardwaj.jpg"
+image: "images/team/karnika-bhardwaj.png"
 email: "kabh00002@uni-saarland.de"
 order: 1
 ---
