@@ -1,7 +1,6 @@
 ---
 title: "Data-driven and microstructure-informed optimization of spark plasma sintering processes (Master Thesis)"
 status: "running"   # laufend, abgeschlossen, Abschlussarbeit
-image: "images/projects/project-xy.png"
 order: 1
 ---
 
