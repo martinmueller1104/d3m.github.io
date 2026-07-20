@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Approaches for Multimodal Image Registration in Microscopy (Master Thesis)"
 status: "starting 08/2026"   # laufend, abgeschlossen, Abschlussarbeit
-image: "images/projects/project-xy.png"
+image: "images/projects/correlative-microscopy.png"
 order: 1
 ---
 
