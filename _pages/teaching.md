@@ -4,7 +4,10 @@ permalink: /teaching/
 layout: single
 ---
 
-For more details and dates, please check: https://www.uni-saarland.de/lehrstuhl/motz/lehre.html
+---
+
+For more details and dates, please check our [university chair website](https://www.uni-saarland.de/lehrstuhl/motz/lehre.html){:target="_blank"}
+
 
 ---
 
