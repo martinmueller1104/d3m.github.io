@@ -6,7 +6,7 @@ layout: single
 
 ---
 
-For more details and dates, please check our [university chair website](https://www.uni-saarland.de/lehrstuhl/motz/lehre.html){:target="_blank"}
+For more details and dates, please check our [university chair website](https://www.uni-saarland.de/lehrstuhl/motz/lehre.html).
 
 
 ---
