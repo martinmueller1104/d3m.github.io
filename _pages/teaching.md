@@ -4,10 +4,13 @@ permalink: /teaching/
 layout: single
 ---
 
+For more details and dates, please check: https://www.uni-saarland.de/lehrstuhl/motz/lehre.html
+
+---
+
 ## Lecture: Laser II: Application in Materials Science (SS 2026)
 xxx
 
----
 
 ## In preparation for WS 2026/27 and SS 2027
 
