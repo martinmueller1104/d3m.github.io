@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI for Metallography"
 status: "running"   # laufend, abgeschlossen, Abschlussarbeit
-image: "images/projects/project-metallography-agent.png"
+image: "images/projects/metallography-gpt.png"
 order: 1
 ---
 
