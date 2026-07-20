@@ -1,7 +1,7 @@
 ---
 title: "Data-frugal methods for machine learning based microstructure analysis"
 status: "starting in 08/2026"   # laufend, abgeschlossen, Abschlussarbeit
-image: "images/projects/project-phd-camilo-martinez.png"
+image: "images/projects/data-frugal.png"
 order: 1
 ---
 
