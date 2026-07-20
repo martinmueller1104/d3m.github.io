@@ -14,7 +14,7 @@ Welcome to the website of the “Data-Driven Materials Design” research group 
 ## In short: what we are doing
 - Machine learning for predicting micromechanical and macroscopic material properties based on microstructural data
 - Inverse materials design to identify the microstructure required for improved properties
-- ML-powered microscopy for microstructure quantification 
+- Machine learning powered microscopy for microstructure quantification 
 - Preparation and linking of multimodal, heterogeneous data sources (images, tabular data, simulation, literature) using LLMs, and LLM-based literature mining
 
 ## Our Research
@@ -25,7 +25,7 @@ The first pillar of our work is microstructure quantification based on machine l
 - and the automation of image annotations based on multimodal, correlative microscopy.
 
 ### Microstructure-property modelling
-The microstructure quantification work feeds directly into the second pillar: microstructure-property modelling. Focusing on micro-scale and microstructure-dominated properties:
+The microstructure quantification work feeds directly into the second pillar: microstructure-property modelling in the context of processing-structure-property links (PSP). Focusing on micro-scale and microstructure-dominated properties:
 - we generate our own experimental datasets, from nano- and micro-scale to macroscopic mechanical testing
 - we use and compare explainable microstructure descriptors and deep, latent features for our ML modeling,
 - and explore cross-property transfer learning for small experimental datasets.
