@@ -1,7 +1,6 @@
 ---
 title: "AI based Microstructure Analysis in a Low Data Regime (Master Thesis)"
 status: "running"   # laufend, abgeschlossen, Abschlussarbeit
-image: "images/projects/project-xy.png"
 order: 1
 ---
 
