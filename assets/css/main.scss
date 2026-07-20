@@ -97,14 +97,3 @@
     flex: 0 1 100%;
   }
 }
-
-
-
-
-.team-member + hr,
-.project-entry + hr {
-  margin-top: 2.5rem;      /* Abstand vor der Linie – wie bisher */
-  margin-bottom: 4rem;     /* größerer Abstand nach der Linie */
-  border: none;
-  border-top: 1px solid #ddd;
-}
