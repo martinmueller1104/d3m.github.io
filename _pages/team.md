@@ -11,4 +11,5 @@ layout: single
   <p><em>{{ member.position }}</em></p>
   <div>{{ member.content | markdownify }}</div>
 </div>
+{% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
