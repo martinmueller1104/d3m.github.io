@@ -16,4 +16,5 @@ layout: single
   {% endif %}
   <div>{{ project.content | markdownify }}</div>
 </div>
+{% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
