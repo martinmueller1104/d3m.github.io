@@ -13,7 +13,7 @@ Welcome to the website of the “Data-Driven Materials Design” research group 
 - Machine learning for predicting micromechanical and macroscopic material properties based on microstructural data
 - Inverse materials design to identify the microstructure required for improved properties
 - Machine learning powered microscopy for microstructure quantification 
-- Preparation and linking of multimodal, heterogeneous data sources (images, tabular data, simulation, literature) using LLMs, and LLM-based literature mining
+- Processing, linking and annotation of multimodal, heterogeneous data sources (images, tabular data, simulation, literature) using large language models
 
 ## Our Research
 ### Microstructure quantification using machine learning
