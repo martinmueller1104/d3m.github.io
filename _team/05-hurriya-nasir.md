@@ -6,7 +6,7 @@ email: "huna00002@uni-saarland.de"
 order: 1
 ---
 
-Hurriya Nassir has a Bachelor's degree in Computer Science and is currently studying for a Master's in the same subject at Saarland University. Drawing on her experience in software engineering and large language models (LLMs), Hurriya is overseeing our projects on LLM-based data annotation and agentic AI for knowledge management.
+Hurriya Nasir has a Bachelor's degree in Computer Science and is currently studying for a Master's in the same subject at Saarland University. Drawing on her experience in software engineering and large language models (LLMs), Hurriya is overseeing our projects on LLM-based data annotation and agentic AI for knowledge management.
 
 
 **Current Focus Areas:**
