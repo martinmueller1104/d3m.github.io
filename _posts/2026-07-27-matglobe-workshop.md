@@ -3,6 +3,14 @@ title: "MatGlobe EDU Workshop at Matplus GmbH"
 date: 2026-07-27
 ---
 
-Matplus GmbH is developing the materials database "MatGlobe EDU" tailored for use in education. In contrast to the typical 'bottom-up' approach to teaching materials science, which starts with atomic-level concepts such as crystal structures, phase diagrams and dislocation theory, this new database follows Michael Ashby’s 'top-down' design philosophy. It starts with compelling engineering challenges and then lets students select, analyse and model materials to solve them.
+🚀 Rethinking how we teach materials science
 
-We are early adopters when it comes to integrating this database into teaching and developing educational formats and case studies. As part of this effort, we were invited to a workshop where we discussed the current status of the database and the associated wiki with other early adopters and further developed the roadmap for integrating it into teaching.
+For decades, materials science education has largely followed a bottom-up approach: starting with crystal structures, phase diagrams, and dislocation theory before eventually arriving at engineering applications.
+
+But what if we reversed the process?
+
+This is exactly the idea behind MatGlobe EDU, the educational materials database currently being developed by Matplus GmbH. Inspired by Michael Ashby’s top-down design philosophy, students begin with a real engineering challenge and then identify, evaluate, and model suitable materials to solve it. This approach connects theory directly with practical decision-making from the very beginning.
+
+I’m excited that we are among the early adopters working with MatGlobe EDU to develop new teaching formats and case studies.
+
+Last week, we had the opportunity to participate in a workshop with other early adopters and the Matplus team. Together, we discussed the current state of the database and its accompanying wiki, shared experiences, and contributed to shaping the roadmap for its integration into university teaching.
