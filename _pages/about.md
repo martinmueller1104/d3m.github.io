@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Platzhalter Logo
-
 Welcome to the website of the “Data-Driven Materials Design” research group at the Chair of Experimental Methods in Materials Science, Saarland University!
 
 ## In short: what we are doing
@@ -37,6 +35,3 @@ The third pillar is our role in the CircularSaar consortium: there, we serve as 
 - and training of machine learning models and the interpretation of the results in the context of process-structure-property correlations.
 
 We envision the development of a structured, quality-assured material database as the foundation for data-driven research across the entire consortium, promote a common language and better understanding between materials science and computer science, and, most importantly, want to establish data-driven materials design as a methodological enabler that can be specifically applied to implement the principles of the circular economy and make sustainable materials decisions.
-
-
-Platzhalter Visualisierung der 3 Säulen
