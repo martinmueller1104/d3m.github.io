@@ -11,9 +11,11 @@ For more details and dates, please check our [university chair website](https://
 
 ---
 
-## Lecture: Laser II: Application in Materials Science (SS 2026)
-xxx
+## Lecture: Laser II: Applications (SS 2026)
+Applications of lasers in materials science and engineering.
 
+## Lecture: Laser I: Fundamentals (WS 2026/27)
+Architecture, operating principles, and interaction with matter.
 
 ## In preparation for WS 2026/27 and SS 2027
 
