@@ -13,4 +13,4 @@ A central concept of this work is to leverage correlative microscopy as a one-ti
 
 This review reflects our ongoing research interests in microstructure characterization, correlative microscopy, and the integration of artificial intelligence into materials science workflows. It also highlights the importance of combining advanced characterization methods with data-driven approaches to enable the next generation of automated materials analysis.
 
-You can find the article here: https://link.springer.com/article/10.1007/s13632-026-01379-3
+You can find the article here: [https://link.springer.com/article/10.1007/s13632-026-01379-3](https://link.springer.com/article/10.1007/s13632-026-01379-3).
