@@ -1,6 +1,6 @@
 ---
 title: "Data-frugal methods for machine learning based microstructure analysis"
-status: "starting in 08/2026"   # laufend, abgeschlossen, Abschlussarbeit
+status: "running"   # laufend, abgeschlossen, Abschlussarbeit
 image: "images/projects/data-frugal.png"
 order: 1
 ---
@@ -14,3 +14,4 @@ In this project, we focus data-frugal methods for machine learning based microst
 - Adaption of cross-domain foundation models
 
 **Workers:** 
+Camilo Andres Martinez Martinez
