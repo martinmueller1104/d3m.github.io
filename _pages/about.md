@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to the website of the “Data-Driven Materials Design” research group at the Chair of Experimental Methods in Materials Science, Saarland University!
 
-<img src="{{ "/images/group-picture-2026-08.png.png" | relative_url }}" alt="Our team" style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+![Our team]({{ "/images/group-picture-2026-08.png" | relative_url }})
 
 ## In short: what we are doing
 - Machine learning for predicting micromechanical and macroscopic material properties based on microstructural data
