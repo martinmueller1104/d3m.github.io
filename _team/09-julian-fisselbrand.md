@@ -1,5 +1,5 @@
 ---
-name: "Julian Fisselbrand, B.Sc."
+name: "Julian Fisselbrand, B.Eng."
 position: "Bachelor thesis"
 image: "images/team/julian-fisselbrand-1.png"
 email: "jufi00004@teams.uni-saarland.de"
